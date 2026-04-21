@@ -1,0 +1,5 @@
+.venv/
+.github/
+.gitea/
+.vscode/
+__pycache__/

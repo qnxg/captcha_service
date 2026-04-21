@@ -1,0 +1,15 @@
+[project]
+name = "CaptchaService"
+version = "0.1.0"
+description = "A service for captcha recognition"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask==3.1.2",
+    "gunicorn==23.0.0",
+    "matplotlib==3.10.6",
+    "pillow==11.3.0",
+    "pyocr==0.8.5",
+    "requests==2.32.5",
+    "werkzeug==3.1.3",
+]
